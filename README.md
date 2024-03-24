@@ -1,1 +1,2 @@
-# Python101 : Bu repoda Python dilinin temellerini bulacaksınız.
+### Essentiol Functions for Python
+In this tutorial you will find some essential functions for python. 
